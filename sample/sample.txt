@@ -1,0 +1,2 @@
+in dir
+test after stage
